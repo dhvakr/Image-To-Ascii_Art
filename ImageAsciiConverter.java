@@ -62,7 +62,7 @@ public final class ImageAsciiConverter
         try 
         {
           ImageAsciiConverter imageConv = new ImageAsciiConverter();
-          imageConv.convertImageToAscii("java.png");
+          imageConv.convertImageToAscii(fileName[0]);
 
           FileReader fr = new FileReader("asciiart.txt");
           int i;

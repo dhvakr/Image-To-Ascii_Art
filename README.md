@@ -62,7 +62,7 @@ This code also supports single launch source file, Run this code with single com
 
 ![SampleOutput](Demo-Files/SampleOutput.gif)
 
-```
+```yaml
 To-Clone Repo :
         https://github.com/dhvakr/Image-To-Ascii_Art
 ```  

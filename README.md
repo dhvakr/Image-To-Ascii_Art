@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/dhvakr.svg?label=Follow&style=social&maxAge=2592000#annee=BlackLotus)](https://github.com/dhvakr?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhvakr?label=Twitter&style=social)](https://twitter.com/dhvakr)
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+[![made-with-java](https://img.shields.io/badge/Made%20with-java-1f425f.svg)](https://www.oracle.com/java/)
 
 
 
@@ -61,7 +62,7 @@ This code also supports single launch source file, Run this code with single com
 
 ![SampleOutput](Demo-Files/SampleOutput.gif)
 
-```yaml
+```
 To-Clone Repo :
         https://github.com/dhvakr/Image-To-Ascii_Art
 ```  

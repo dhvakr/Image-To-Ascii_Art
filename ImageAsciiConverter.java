@@ -14,9 +14,9 @@ import javax.imageio.ImageIO;
   *                       * (java.png is the image name of ur expecting image)
   *                       *  Load any image you're interested in (Make sure u are typing correct image name)
   *
-  *    -> If you expecting to Run this code in your preferred IDE, skip all other instruction and pass the image name directly in " line no 64 "
+  *    -> If you expecting to Run this code in your preferred IDE, skip all other instruction and pass the image name directly in " line no 65 "
   *                       * (i,e) remove fileName[0] and pass your arugument as your image FileName ('java.png") instead of fileName[0]
-  *            Example @Line 64 =====> imageConv.convertImageToAscii("java.png");
+  *            Example @Line 65 =====> imageConv.convertImageToAscii("java.png");
   *
   *    -> This program also supports single launch source file https://openjdk.java.net/jeps/330, Run the program directly with 
   *                1.)  java AsciiImageConverter.java java.png

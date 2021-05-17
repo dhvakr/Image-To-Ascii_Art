@@ -32,13 +32,13 @@
 <img src = "Demo-Files/Run.png" height = "" width = "840"  alt = "imageView Demo"/>
 </p>
 
-> If you expecting to Run this code in your preferred IDE, Instead of CLI, skip all other instruction and pass the image name directly in `line no 64` at `ImageAsciiConverter.java` file
+> If you expecting to Run this code in your preferred IDE, Instead of CLI, skip all other instruction and pass the image name directly in `line no 65` at `ImageAsciiConverter.java` file
   
-   (i,e) at line no : 64 remove fileName[0] and pass argument as your image name ('java.png") instead of fileName[0] 
+   (i,e) at line no : 65 remove fileName[0] and pass argument as your image name ('java.png") instead of fileName[0] 
 ```yaml
   Refer: Figure 3
 ```
-> @ Line 64 => imageConv.convertImageToAscii(`"java.png"`);
+> @ Line 65 => imageConv.convertImageToAscii(`"java.png"`);
 
 ## **Figure 3**
 <p align = "left">

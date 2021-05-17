@@ -7,12 +7,11 @@
 ## Tested Image Formats
 **PNG | JPG**
 
-
 ### `STEP 1 :`
       Compile a java file "AsciiImageConverter.java"
 ## **Figure 1**
 <p align = "center">
-<img src = "Demo-Images/Compile.png" height = "" width = "840"  alt = "imageView Demo"/>
+<img src = "Demo-Files/Compile.png" height = "" width = "840"  alt = "imageView Demo"/>
 </p>
 
 ### `STEP 2 :`
@@ -25,10 +24,9 @@
 ```
 * Load any image you're interested in (Make sure u are typing correct image name)
 
-  
-## **Figure 2**
+  ## **Figure 2**
 <p align = "center">
-<img src = "Demo-Images/Run.png" height = "" width = "840"  alt = "imageView Demo"/>
+<img src = "Demo-Files/Run.png" height = "" width = "840"  alt = "imageView Demo"/>
 </p>
 
 > If you expecting to Run this code in your preferred IDE, Instead of CLI, skip all other instruction and pass the image name directly in `line no 64` at `ImageAsciiConverter.java` file
@@ -41,13 +39,13 @@
 
 ## **Figure 3**
 <p align = "left">
-<img src = "Demo-Images/IDE.png" height = "" width = "750"  alt = "imageView Demo"/>
+<img src = "Demo-Files/IDE.png" height = "" width = "750"  alt = "imageView Demo"/>
 </p>
 
 **Excepted Change To Run via IDE**
 
 <p align = "right">
-<img src = "Demo-Images/IDEChange_Example.png" height = "" width = "750"  alt = "imageView Demo"/>
+<img src = "Demo-Files/IDEChange_Example.png" height = "" width = "750"  alt = "imageView Demo"/>
 </p>
 
 This code also supports single launch source file, Run this code with single command `java AsciiImageConverter.java java.png`  in terminal
@@ -55,6 +53,10 @@ This code also supports single launch source file, Run this code with single com
   > Refer : [JEP330](https://openjdk.java.net/jeps/330) for more information.
 
   You are expected to have java-11 to perform single launch source file execution in terminal
+
+## SAMPLE OUTPUT : 
+
+![SampleOutput](Demo-Files/SampleOutput.gif)
 
 ### TO-CONTRIBUTE :
 

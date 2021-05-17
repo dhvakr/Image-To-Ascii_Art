@@ -1,7 +1,10 @@
 # Image-To-Ascii_Art in Java
 [![License: The Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+[![GitHub followers](https://img.shields.io/github/followers/dhvakr.svg?label=Follow&style=social&maxAge=2592000#annee=BlackLotus)](https://github.com/dhvakr?tab=followers)
 [![Twitter Follow](https://img.shields.io/twitter/follow/dhvakr?label=Twitter&style=social)](https://twitter.com/dhvakr)
-[![GitHub followers](https://img.shields.io/github/followers/dhvakr?label=Follow&style=social)](https://github.com/dhvakr?tab=followers)
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+
 
  **This contain code to Convert an Image to Ascii using java, Refer below steps to get started** 
 ## Tested Image Formats
@@ -58,13 +61,12 @@ This code also supports single launch source file, Run this code with single com
 
 ![SampleOutput](Demo-Files/SampleOutput.gif)
 
-### TO-CONTRIBUTE :
-
 ```yaml
-Clone Repo :
+To-Clone Repo :
         https://github.com/dhvakr/Image-To-Ascii_Art
 ```  
-Found any bug !? Please create an issue, before making Pull Request
+This project is refactored and not actively maintained.. if found any bug in this code!? leave me alone and solve the bugs by yourself😐
+refer [No Maintenance Intended badge](https://unmaintained.tech/)
 
 ---
 ### `LICENSE -> ` 
